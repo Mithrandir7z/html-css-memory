@@ -54,6 +54,18 @@ main {
     border-radius: 13px;
 }
 
+/*card statica*/
+#card-statica {
+    background-color: white;
+    height: 100%;
+    width: 20%;
+    display: inline-block;
+    margin-left: 50px;
+    background-image: url("../img/noun_air_balloon_3134741.png");
+    background-size: contain;
+    border-radius: 13px;
+}
+
 .card:hover {
     background-image: url("../img/noun_air_balloon_3134741.png");
     background-size: contain;
