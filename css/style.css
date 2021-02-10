@@ -64,6 +64,17 @@ main {
     background-image: url("../img/noun_air_balloon_3134741.png");
     background-size: contain;
     border-radius: 13px;
+    overflow: hidden;
+    position: relative;
+}
+
+.text {
+    color: red;
+    position: absolute;
+    right: 75px;
+    bottom: 0px;
+    font-size: 25px;
+
 }
 
 .card:hover {
